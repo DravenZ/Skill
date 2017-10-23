@@ -1,0 +1,33 @@
+2017-10-23 15:41:04,641 INFO    : this is information
+2017-10-23 15:41:04,641 WARNING : this is warning message
+2017-10-23 15:41:04,641 ERROR   : this is error message
+2017-10-23 15:41:04,641 CRITICAL: this is fatal message, it is same as logger.critical
+2017-10-23 15:41:04,641 CRITICAL: this is critical message
+2017-10-23 15:41:41,559 INFO    : this is information
+2017-10-23 15:41:41,559 WARNING : this is warning message
+2017-10-23 15:41:41,559 ERROR   : this is error message
+2017-10-23 15:41:41,559 CRITICAL: this is fatal message, it is same as logger.critical
+2017-10-23 15:41:41,559 CRITICAL: this is critical message
+2017-10-23 15:43:42,299 INFO    : this is information
+2017-10-23 15:43:42,299 WARNING : this is warning message
+2017-10-23 15:43:42,299 ERROR   : this is error message
+2017-10-23 15:43:42,299 CRITICAL: this is fatal message, it is same as logger.critical
+2017-10-23 15:43:42,299 CRITICAL: this is critical message
+2017-10-23 15:43:42,299 ERROR   : Booking service is down!
+2017-10-23 15:43:42,299 ERROR   : Booking service is down!
+2017-10-23 15:43:42,299 ERROR   : Booking service is down!
+2017-10-23 15:43:42,299 ERROR   : Booking service is down
+2017-10-23 15:44:40,256 INFO    : this is information
+2017-10-23 15:44:40,256 WARNING : this is warning message
+2017-10-23 15:44:40,256 ERROR   : this is error message
+2017-10-23 15:44:40,256 CRITICAL: this is fatal message, it is same as logger.critical
+2017-10-23 15:44:40,256 CRITICAL: this is critical message
+2017-10-23 15:44:40,256 ERROR   : Booking service is down!
+2017-10-23 15:44:40,256 ERROR   : Booking service is down!
+2017-10-23 15:44:40,257 ERROR   : Booking service is down!
+2017-10-23 15:44:40,257 ERROR   : Booking service is down
+2017-10-23 15:44:40,257 ERROR   : this is an exception message
+Traceback (most recent call last):
+  File "F:/PyWorkSpace/Skill/Log/log2.py", line 48, in <module>
+    1 / 0
+ZeroDivisionError: integer division or modulo by zero

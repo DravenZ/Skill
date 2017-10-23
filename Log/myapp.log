@@ -1,0 +1,15 @@
+Mon, 23 Oct 2017 15:10:39 log.py[line:10] DEBUG This is debug message
+Mon, 23 Oct 2017 15:10:39 log.py[line:11] INFO This is info message
+Mon, 23 Oct 2017 15:10:39 log.py[line:12] WARNING This is warning message
+Mon, 23 Oct 2017 15:13:11 log.py[line:10] DEBUG This is debug message
+Mon, 23 Oct 2017 15:13:11 log.py[line:11] INFO This is info message
+Mon, 23 Oct 2017 15:13:11 log.py[line:12] WARNING This is warning message
+Mon, 23 Oct 2017 15:17:59 log.py[line:19] DEBUG This is debug message
+Mon, 23 Oct 2017 15:17:59 log.py[line:20] INFO This is info message
+Mon, 23 Oct 2017 15:17:59 log.py[line:21] WARNING This is warning message
+Mon, 23 Oct 2017 15:19:14 log.py[line:19] DEBUG This is debug message
+Mon, 23 Oct 2017 15:19:14 log.py[line:20] INFO This is info message
+Mon, 23 Oct 2017 15:19:14 log.py[line:21] WARNING This is warning message
+Mon, 23 Oct 2017 15:39:47 log.py[line:22] DEBUG This is debug message
+Mon, 23 Oct 2017 15:39:47 log.py[line:23] INFO This is info message
+Mon, 23 Oct 2017 15:39:47 log.py[line:24] WARNING This is warning message
