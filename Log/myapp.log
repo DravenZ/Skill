@@ -13,3 +13,6 @@ Mon, 23 Oct 2017 15:19:14 log.py[line:21] WARNING This is warning message
 Mon, 23 Oct 2017 15:39:47 log.py[line:22] DEBUG This is debug message
 Mon, 23 Oct 2017 15:39:47 log.py[line:23] INFO This is info message
 Mon, 23 Oct 2017 15:39:47 log.py[line:24] WARNING This is warning message
+Tue, 24 Oct 2017 09:31:42 log.py[line:22] DEBUG This is debug message
+Tue, 24 Oct 2017 09:31:42 log.py[line:23] INFO This is info message
+Tue, 24 Oct 2017 09:31:42 log.py[line:24] WARNING This is warning message
