@@ -18,7 +18,9 @@ q.put(Job(10, 'level 10 job'))
 q.put(Job(1, 'level 1 job'))
 
 def process_job(q):
+    i = 0
     while True:
+        i=i+1
         next_job = q.get()
         print 'for:', next_job.description
         q.task_done()
